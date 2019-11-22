@@ -1,0 +1,15 @@
+{
+  "name": "simplecalendar",
+  "version": "0.0.1",
+  "authors": [
+    "Philip Ehsing <Philipehsing>"
+  ],
+  "description": "simplecalendar make it easier for you to create a clean flat calendar",
+  "main": "simplecalendar.js",
+  "keywords": [
+    "simple",
+    "calendar"
+  ],
+  "license": "MIT",
+  "homepage": "github.com/philipehsing"
+}
